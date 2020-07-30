@@ -1,0 +1,21 @@
+* {
+	font: "Fantasy", sans-serif;
+    font-weight:  600;
+}
+body {
+	background-color: hotpink;
+    border-color: hotpink;
+   }
+div.card,
+div.alert-warning {
+    background-color: lightpink;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 10px 0 rgba(0, 0, 0, 0.12);
+}
+.card-header {
+	text-align: center;
+}
+#header_text {
+    font: "Fantasy", sans-serif; 
+    font-weight:  700;
+    font-size: 40px;
+}
